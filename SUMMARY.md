@@ -3,9 +3,13 @@
 * [Overview](README.md)
 * [User Reviews](reviews.md)
 
-## Documents
+## Reference
 
-* [EULA](documents/eula.md)
-* [FAQ](documents/faq.md)
-* [GBP](documents/gbp.md)
+* [FAQ](reference/faq.md)
+* [GBP](reference/gbp.md)
+
+## Legal
+
+* [EULA](legal/eula.md)
+* [License](legal/license.md)
 

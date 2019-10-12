@@ -6,7 +6,7 @@ description: >-
 
 # FAQ
 
-## Verification System: <a id="verification"></a>
+##  Verification System: <a id="verification"></a>
 
 ### What is it? <a id="verification-what"></a>
 

@@ -6,7 +6,7 @@ description: >-
 
 # FAQ
 
-##  Verification System: <a id="verification"></a>
+##  Verification System <a id="verification"></a>
 
 ### What is it? <a id="verification-what"></a>
 
@@ -24,7 +24,7 @@ You will become verified upon reaching the 100 message milestone in global chat.
 Reaching 100 messages by spamming will result in your account being blocked from using the global chat
 {% endhint %}
 
-## End User License Agreement \(EULA\): <a id="eula"></a>
+## End User License Agreement \(EULA\) <a id="eula"></a>
 
 ### What is it? <a id="eula-what"></a>
 
@@ -40,7 +40,7 @@ The easiest way to accept the [EULA ](../legal/eula.md)is through the `$-eula` c
 
 ![](../.gitbook/assets/eula.png)
 
-## Server TPS:
+## Server TPS
 
 ### What is it?
 

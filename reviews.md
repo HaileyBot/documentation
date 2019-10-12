@@ -28,15 +28,21 @@ description: 'Community reviews for HaileyBot, written by legitimate users'
 
 
 
+
+
 ### ![](.gitbook/assets/image0.jpg)      folding.exe\#0001
 
 > "The most versatile bot I've seen yet, packed with many features"
 
 
 
+
+
 ### ![](.gitbook/assets/e57375f6452fda7721905bd7a98486a9.png)      Mr. Kristofferson\#9911
 
 > "As an Admin for the chat and the main hub of the bot, I do love having the ability to chat with multiple users and servers without the need of randomly reconnecting to a new user/server. I can watch the chat all at once and help out the new users who are intrigued on how the chat, moderation logs and advertisements work. My score: 11/10 IGN. Would recommend to my family."
+
+
 
 
 

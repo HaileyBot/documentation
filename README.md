@@ -1,5 +1,7 @@
 ---
-description: All documented updates or changes to HaileyBot over time
+description: >-
+  All documented updates or changes to HaileyBot over time (these ChangeLogs are
+  currently outdated)
 ---
 
 # ChangeLogs

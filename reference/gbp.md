@@ -32,5 +32,5 @@ The following actions or behaviors will cause a user to be added to HaileyBot's 
 
 ## Reporting
 
-To report a user for violating the GBP, you will first need to gather evidence in the form of screenshots. Along with the evidence, you will also need to provide the user's ID. If you have the sufficient evidence and information about the user, you can contact us at [reports@haileybot.com](mailto:reports@haileybot.com), and we will review the submission and make a decision.
+To report a user for violating the GBP, you will first need to gather evidence in the form of screenshots. Along with the evidence, you will also need to provide the user's ID. If you have the sufficient evidence and information about the user, you can contact us at [reports@haileybot.com](mailto:reports@haileybot.com) or message `cheesits#0456`on Discord, and we will review the submission and make a decision.
 

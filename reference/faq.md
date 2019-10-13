@@ -38,7 +38,9 @@ The [EULA](../legal/eula.md) exists to ensure the safety of the bot. The global 
 
 The easiest way to accept the [EULA ](../legal/eula.md)is through the `$-eula` command. This command outputs an invite link; following the link will take you directly to the [EULA ](../legal/eula.md)channel on the bot's support server. Even if you're already in the server, clicking on the link will take you to the correct channel. From there, its as simple as reading the agreement, then adding a check mark reaction.
 
-## Server TPS
+![](../.gitbook/assets/eula.png)
+
+## Server TPS <a id="tps"></a>
 
 ### What is it?
 
@@ -57,4 +59,6 @@ The Global Ban List exists to aid server owners in discovering "problem players"
 ### How do I implement it?
 
 You can set up HaileyBot to automatically warn you when a member joining your server has violated the [GBP](gbp.md), as well as warning you when an existing member in your server has been added to the Global Ban List. These settings are available under the `$-warn` command.
+
+![](../.gitbook/assets/warn.PNG)
 

@@ -19,6 +19,7 @@ The following actions or behaviors will cause a user to be added to HaileyBot's 
 
 * Spamming in a channel that hasn't been explicitly marked as a "spam channel"
 * Spamming a user's direct messages
+* Organizing or participating in a server raid
 
 ### Slurs
 

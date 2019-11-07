@@ -4,7 +4,7 @@ description: >-
   report a user so they can be added to the Global Ban List.
 ---
 
-# GBP
+# Global Ban Policy
 
 ## Global Ban Policy
 

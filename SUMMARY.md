@@ -5,8 +5,8 @@
 
 ## Reference
 
-* [FAQ](reference/faq.md)
-* [GBP](reference/gbp.md)
+* [Frequently Asked](reference/faq.md)
+* [Global Ban Policy](reference/gbp.md)
 
 ## Legal
 

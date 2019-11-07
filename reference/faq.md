@@ -4,7 +4,7 @@ description: >-
   answers
 ---
 
-# FAQ
+# Frequently Asked
 
 ##  Verification System <a id="verification"></a>
 

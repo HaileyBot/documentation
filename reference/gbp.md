@@ -6,7 +6,7 @@ description: >-
 
 # Global Ban Policy
 
-## Global Ban Policy
+## Bannable Actions
 
 The following actions or behaviors will cause a user to be added to HaileyBot's Global Ban List.
 

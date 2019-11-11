@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Overview](README.md)
-* [User Reviews](reviews.md)
 
 ## Reference
 

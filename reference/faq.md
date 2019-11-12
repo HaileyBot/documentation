@@ -50,7 +50,7 @@ TPS stands for "ticks per second". This value represents how many operations per
 
 ### What is it?
 
-The Global Ban List is a list of user IDs who have been banned in accordance with HaileyBot's [Global Ban Policy](gbp.md) \(GBP\).
+The Global Ban List is a list of user IDs who have been banned in accordance with HaileyBot's [Global Ban Policy](gbp.md).
 
 ### Why is it?
 
@@ -58,7 +58,9 @@ The Global Ban List exists to aid server owners in discovering "problem players"
 
 ### How do I implement it?
 
-You can set up HaileyBot to automatically warn you when a member joining your server has violated the [GBP](gbp.md), as well as warning you when an existing member in your server has been added to the Global Ban List. These settings are available under the `$-warn` command.
+You can set up HaileyBot to automatically warn you when a member joining your server has violated the Global Ban Policy, as well as warning you when an existing member in your server has been added to the Global Ban List. These settings are available under the `$-warn` command.
 
 ![](../.gitbook/assets/warn.PNG)
+
+Additionally, you can use the command `$-ban global` to sync HaileyBot's Global Ban List with your server, banning everyone who has violated the Global Ban Policy.
 

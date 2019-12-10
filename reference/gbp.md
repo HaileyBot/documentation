@@ -10,23 +10,23 @@ description: >-
 
 The following actions or behaviors will cause a user to be added to HaileyBot's Global Ban List.
 
-### NSFW Content
+#### NSFW Content
 
 * Intentionally sending NSFW content to a channel that isn't marked as NSFW
 * Sending NSFW content to other users through direct message, against the user's will
 
-### Spam
+#### Spam
 
 * Spamming in a channel that hasn't been explicitly marked as a "spam channel"
 * Spamming a user's direct messages
 * Organizing or participating in a server raid
 
-### Slurs
+#### Slurs
 
 * Sending derogatory slurs in a server
 * Sending a user derogatory slurs in their direct messages
 
-### Disrespect/Toxicity
+#### Disrespect/Toxicity
 
 * Being excessively rude and/or toxic to other users against their wishes
 * Disobeying instructions from server staff members

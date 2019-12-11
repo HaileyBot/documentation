@@ -42,21 +42,21 @@ The easiest way to accept the [EULA ](../legal/eula.md)is through the `$-eula` c
 
 ## Server TPS <a id="tps"></a>
 
-### What is it?
+### What is it? <a id="tps-what"></a>
 
 TPS stands for "ticks per second". This value represents how many operations per second the host computer is able to handle without any server-side latency. Most latency experienced while using HaileyBot is either network latency, or a result of [Discord's rate limits](https://discordapp.com/developers/docs/topics/rate-limits).
 
-## Global Ban List
+## Global Ban List <a id="ban-list"></a>
 
-### What is it?
+### What is it? <a id="ban-list-what"></a>
 
 The Global Ban List is a list of user IDs who have been banned in accordance with HaileyBot's [Global Ban Policy](gbp.md).
 
-### Why is it?
+### Why is it? <a id="ban-list-why"></a>
 
 The Global Ban List exists to aid server owners in discovering "problem players" - users who have a tendency to intentionally break rules or wreak havoc.
 
-### How do I implement it?
+### How do I implement it? <a id="ban-list-how"></a>
 
 You can set up HaileyBot to automatically warn you when a member joining your server has violated the Global Ban Policy, as well as warning you when an existing member in your server has been added to the Global Ban List. These settings are available under the `$-warn` command.
 
@@ -66,7 +66,7 @@ Additionally, you can use the command `$-ban global` to sync HaileyBot's Global 
 
 ## Global Emotes <a id="emotes"></a>
 
-### Why don't they work in Global Chat?
+### Why don't they work in Global Chat? <a id="emotes-why"></a>
 
 **TL;DR:** They actually do.
 

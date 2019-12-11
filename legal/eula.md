@@ -64,5 +64,5 @@ This Agreement and the terms and conditions contained in this Agreement apply to
 
 ### Notices
 
-All notices to the Vendor under this Agreement are to be provided to the following Discord account via direct message: cheesits\#0456 \(306018440639152128\)
+All notices to the Vendor under this Agreement are to be provided to the email address "[cheesits456@haileybot.com](mailto:cheesits456@haileybot.com)".
 

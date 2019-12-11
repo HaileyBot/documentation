@@ -64,3 +64,11 @@ You can set up HaileyBot to automatically warn you when a member joining your se
 
 Additionally, you can use the command `$-ban global` to sync HaileyBot's Global Ban List with your server, banning everyone who has violated the Global Ban Policy.
 
+## Global Emotes <a id="emotes"></a>
+
+### Why don't they work in Global Chat?
+
+**TL;DR:** They actually do.
+
+On Discord, bot accounts have the same emoji abilities as a Discord Nitro user. A bot can use custom emotes across different servers, outside of the server the emote originates from. However, just like a Discord Nitro user, a bot can't use a custom emote from a server the bot isn't in. Global Emotes work perfectly fine in Global Chat, as long as HaileyBot is in the emote's server. Unfortunately, there is no way around this limitation.
+

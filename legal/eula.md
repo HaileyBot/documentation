@@ -64,5 +64,5 @@ This Agreement and the terms and conditions contained in this Agreement apply to
 
 ### Notices
 
-All notices to the Vendor under this Agreement are to be provided to the email address "[cheesits456@haileybot.com](mailto:cheesits456@haileybot.com)".
+All notices to the Vendor under this Agreement are to be provided to the email address [cheesits456@haileybot.com](mailto:cheesits456@haileybot.com).
 

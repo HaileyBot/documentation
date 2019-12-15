@@ -40,35 +40,33 @@ The easiest way to accept the [EULA ](../legal/eula.md)is through the `$-eula` c
 
 ![](../.gitbook/assets/eula.png)
 
-## Server TPS <a id="tps"></a>
-
-### What is it? <a id="tps-what"></a>
-
-TPS stands for "ticks per second". This value represents how many operations per second the host computer is able to handle without any server-side latency. Most latency experienced while using HaileyBot is either network latency, or a result of [Discord's rate limits](https://discordapp.com/developers/docs/topics/rate-limits).
-
 ## Global Ban List <a id="ban-list"></a>
 
 ### What is it? <a id="ban-list-what"></a>
 
 The Global Ban List is a list of user IDs who have been banned in accordance with HaileyBot's [Global Ban Policy](gbp.md).
 
-### Why is it? <a id="ban-list-why"></a>
-
-The Global Ban List exists to aid server owners in discovering "problem players" - users who have a tendency to intentionally break rules or wreak havoc.
-
 ### How do I implement it? <a id="ban-list-how"></a>
 
-You can set up HaileyBot to automatically warn you when a member joining your server has violated the Global Ban Policy, as well as warning you when an existing member in your server has been added to the Global Ban List. These settings are available under the `$-warn` command.
+You can set up HaileyBot to automatically warn you when a member joining your server has violated the Global Ban Policy, as well as warning you when an existing member in your server has been added to the Global Ban List.
 
-![](../.gitbook/assets/warn.PNG)
+For a more direct approach, you can use the `$-ban` command to sync the Global Ban List with your server, which will prevent all globally banned users from being able to join your server.
 
-Additionally, you can use the command `$-ban global` to sync HaileyBot's Global Ban List with your server, banning everyone who has violated the Global Ban Policy.
+![](../.gitbook/assets/warn-ban.png)
 
-## Global Emotes <a id="emotes"></a>
+## Other Common Questions <a id="other"></a>
 
-### Why don't they work in Global Chat? <a id="emotes-why"></a>
+### What is Server TPS? <a id="tps"></a>
+
+TPS stands for "ticks per second". This value represents how many operations per second the host computer is able to handle without any server-side latency. Most latency experienced while using HaileyBot is either network latency, or a result of [Discord's rate limits](https://discordapp.com/developers/docs/topics/rate-limits).
+
+### Why don't custom emotes work in Global Chat? <a id="emotes"></a>
 
 **TL;DR:** They actually do.
 
 On Discord, bot accounts have the same emoji abilities as a Discord Nitro user. A bot can use custom emotes across different servers, outside of the server the emote originates from. However, just like a Discord Nitro user, a bot can't use a custom emote from a server the bot isn't in. Global Emotes work perfectly fine in Global Chat, as long as HaileyBot is in the emote's server. Unfortunately, there is no way around this limitation.
+
+### Why is the Global Chat English only? <a id="english-only"></a>
+
+There are people from all over the world connected to the Global Chat, so guidelines needed to be put in place in order to keep it true to is original purpose of providing a place to meet and connect with new people. English is the most common language in the world \([source](https://rebrand.ly/languages-by-country)\), and therefore is understood by more people than any other language. The Global Chat is for having conversations, which aren't possible if we don't understand each other.
 

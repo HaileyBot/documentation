@@ -1,9 +1,6 @@
 # Table of contents
 
-* [Overview](README.md)
-
 ## Reference
 
+* [Privacy Policy](README.md)
 * [Frequently Asked](reference/faq.md)
-* [Global Ban Policy](reference/gbp.md)
-

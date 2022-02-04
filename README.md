@@ -1,5 +1,5 @@
 ---
-description: An overview of how HaileyBot handles user data
+description: An overview of how HaileyBot handles various types of data
 ---
 
 # Privacy Policy

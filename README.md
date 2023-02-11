@@ -14,4 +14,4 @@ Server data collection matches that of user data. The server ID is collected to 
 
 ## Message Data
 
-HaileyBot does not log or save any message data. Server administrators can choose to enable a modlog feature, where messages will appear in the designated channel if edited or deleted. For this feature to work, message content needs to be stored in RAM, so HaileyBot keeps a cache of messages for one hour. The cache is never saved to disk, and in the event of a restart will be cleared automatically. An example of the modlog feature can be seen in the publicly viewable `#mod-log` channel of HaileyBot's support server.
+HaileyBot does not log or save any message data. Server administrators can choose to enable a modlog feature, where messages will appear in the designated channel if edited or deleted. For this feature to work, message content needs to be stored in RAM, so HaileyBot keeps a cache of messages for 24 hours. The cache is never saved to disk, and in the event of a restart will be cleared automatically. An example of the modlog feature can be seen in the publicly viewable `#mod-log` channel of HaileyBot's support server.

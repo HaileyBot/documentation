@@ -6,7 +6,7 @@ description: An overview of how HaileyBot handles various types of data
 
 ## User Data
 
-The only user data collected and saved is your user ID. This is used to store information linked to your account, such as bank balance, server XP, and work cooldown. No identifying information is stored apart from the ID itself.
+The only user data collected and saved is your user ID and current username. This is used to store information linked to your account, such as bank balance, server XP, and work cooldown. Usernames may also be stored to improve searching for users to moderate servers. No identifying information is stored apart from these, and username history is not saved.
 
 ## Server Data
 
